@@ -1,4 +1,4 @@
-# clippio · verify
+# clippio-core
 
 The verifiable core of [Clippio](https://clippio.fun), the marketplace where clippers get
 paid per view on Solana. This repository exists so you can check our claims instead of
